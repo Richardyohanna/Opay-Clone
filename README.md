@@ -23,3 +23,6 @@ This project was developed as part of my Industrial Training (IT) task at **Lamz
 1. Clone the repository:
    ```bash
    git clone https://github.com/<your-username>/<repo-name>.git
+
+## Figma Design Link
+https://www.figma.com/design/PGfwLKjm3TNXuvkRpbjJiZ/Untitled?node-id=60-2&t=QtHt7OFbU7JwQnpP-0
